@@ -1,4 +1,3 @@
 # Sona
 Practice 
-Hello world '
-
+Hello
